@@ -50,6 +50,18 @@ Ziel der Übung ist es, eine Oberfläche bestehend aus Eingabeformular und Dia
 
 <a href="docbase/U-05-GUI-Komponenten.pdf">Übungsblatt 5</a>
 
+
+
+
+
+
+
+
+### Übung 9 - Testen von grafischen Oberflächen
+Ziel der heutigen Übungen ist es, eine Codebasis um Unit-Tests und Oberflächen-Tests zu erweitern.
+
+<a href="docbase/U-09-Testing.pdf">Übungsblatt 9</a>
+
 ### Links
 1. Online Dokumentation und Tutorials zu JavaFX (2015)
 http://docs.oracle.com/javase/8/javase-clienttechnologies.htm
