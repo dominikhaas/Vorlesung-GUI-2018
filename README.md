@@ -45,6 +45,11 @@ Ziel der Übung ist es die Oberfläche aus Übung 3 nach dem MVP Muster mit Data
 
 <a href="docbase/U-04-MVx.pdf">Übungsblatt 4</a>
 
+### Übung 5 - GUI Komponenten
+Ziel der Übung ist es, eine Oberfläche bestehend aus Eingabeformular und Diagramm zu erzeugen. Die Oberfläche aus Übung 4 soll dazu als Komponente verwendet und eingebettet werden.
+
+<a href="docbase/U-05-GUI-Komponenten.pdf">Übungsblatt 5</a>
+
 ### Links
 1. Online Dokumentation und Tutorials zu JavaFX (2015)
 http://docs.oracle.com/javase/8/javase-clienttechnologies.htm
