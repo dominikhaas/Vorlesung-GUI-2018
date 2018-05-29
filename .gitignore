@@ -2,3 +2,5 @@
 **/dist/**
 **/target/**
 **/nbproject/private/**
+**/.idea/workspaces.xml
+**/.idea/tasks.xml
