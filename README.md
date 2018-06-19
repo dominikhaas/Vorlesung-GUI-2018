@@ -76,7 +76,7 @@ Ziel der heutigen Übungen ist es, eine Codebasis um Unit-Tests und Oberflächen
 ### Übung 10 - Web GUIs Teil 1
 Wir entwickeln die Webversion unseres Headers aus den vergangenen Übungen.
 
-<a href="docbase/U-10-Web1.pdf">Übungsblatt 10</a>
+<a href="docbase/U-10-Web01.pdf">Übungsblatt 10</a>
 
 
 
