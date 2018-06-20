@@ -60,13 +60,15 @@ Ziel der Übung ist es, eine (simuliert) langlaufende Aktion außerhalb des UI-
 
 <a href="docbase/U-07-Parallelitaet.pdf">Übungsblatt 7</a>
 
+### Übung 8 - Architektur
+Ziel der Übung ist es, die Oberfläche für eine einfache Kundensuche in mehreren Komponenten umzusetzen. Die Komponenten werden dabei als Maven-Module realisiert.
 
+<a href="docbase/U-08-Architektur.pdf">Übungsblatt 8</a>
 
+### Übung 9 - Testen von grafischen Oberflächen
+Ziel der heutigen Übungen ist es, eine Codebasis um Unit-Tests und Oberflächen-Tests zu erweitern.
 
-
-
-
-
+<a href="docbase/U-09-Testing.pdf">Übungsblatt 9</a>
 
 ### Übung 9 - Testen von grafischen Oberflächen
 Ziel der heutigen Übungen ist es, eine Codebasis um Unit-Tests und Oberflächen-Tests zu erweitern.
