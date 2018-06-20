@@ -70,11 +70,6 @@ Ziel der heutigen Übungen ist es, eine Codebasis um Unit-Tests und Oberflächen
 
 <a href="docbase/U-09-Testing.pdf">Übungsblatt 9</a>
 
-### Übung 9 - Testen von grafischen Oberflächen
-Ziel der heutigen Übungen ist es, eine Codebasis um Unit-Tests und Oberflächen-Tests zu erweitern.
-
-<a href="docbase/U-09-Testing.pdf">Übungsblatt 9</a>
-
 ### Übung 10 - Web GUIs Teil 1
 Wir entwickeln die Webversion unseres Headers aus den vergangenen Übungen.
 
